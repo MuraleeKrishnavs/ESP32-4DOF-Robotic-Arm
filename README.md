@@ -19,8 +19,6 @@ This project implements a **4-DOF robotic arm** controlled by **ESP32** and **SG
 ## 🧠 Working Principle
 Potentiometer readings (0-4095) are mapped to servo angles (0-180°). The ESP32 controls servos in real-time and can store movements for later playback.
 
-## 📷 Demo
-![Arm Demo](Images/Arm_Photo.jpg)
 
 ## 🚀 Future Development
 - 6-DOF upgrade with belt-driven actuation
